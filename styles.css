@@ -45,8 +45,8 @@ section {
     
     top: 25rem;
     /* erawidth: 45rem */
-    width: 30rem;
-    height: auto;
+    /* width: 30rem; */
+    height: 30%;
     border-radius: 30px;
 }
 
