@@ -156,13 +156,13 @@ h2 {
     transform-origin: right center;
 }
 
-.opcoes-acessiblidade {
+.opcoes-acessibilidade {
     margin-top: 10px;
     display: flex;
     flex-direction: column;
 }
 
-.opcoes-acessiblidade button {
+.opcoes-acessibilidade button {
     margin-bottom: 5px;
 }
 
