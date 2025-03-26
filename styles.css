@@ -42,7 +42,7 @@ section {
 .img-inicio {
     position: absolute;
     right: 10rem;
-    
+
     top: 25rem;
     /* erawidth: 45rem */
     /* width: 30rem; */
@@ -148,10 +148,24 @@ h2 {
     position: fixed;
     top: 2rem;
     right: 20px;
-    z-index:1000;
+    z-index: 1000;
 }
 
-.rotacao-botao{
+.rotacao-botao {
     transform: rotate(-90deg);
-    -o-transform-origin: right center;
+    transform-origin: right center;
+}
+
+.opcoes-acessiblidade {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.opcoes-acessiblidade button {
+    margin-bottom: 5px;
+}
+
+.apresenta-lista {
+    display: none;
 }
