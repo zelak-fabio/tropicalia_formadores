@@ -41,10 +41,13 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 0;
-    top: 18rem;
-    width: 45rem;
+    right: 10rem;
+    
+    top: 25rem;
+    /* erawidth: 45rem */
+    width: 30rem;
     height: auto;
+    border-radius: 30px;
 }
 
 
