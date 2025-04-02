@@ -152,7 +152,7 @@ h2 {
 }
 
 .rotacao-botao {
-    transform: rotate(-90deg);
+    /* transform: rotate(-90deg); */
     transform-origin: right center;
 }
 
@@ -167,5 +167,5 @@ h2 {
 }
 
 .apresenta-lista {
-    display: none;
+    /* display: none; */
 }
